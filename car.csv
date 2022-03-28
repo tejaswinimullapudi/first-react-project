@@ -1,0 +1,13 @@
+,ID,car_name,car_model,car_price,year,KMs_driven,fuel_type,Location,Image_URL
+0,5,Hyundai,Grand i10 Magna AT 1.2 Kappa VTVT,565000.0,2018,12840,petrol,Pune,https://storage.cloud.google.com/car_image12/car%20images/car%20images/0hyundai%20grand%20i10%20.jpg
+1,10,Mahindra,XUV500 W8,947000.0,2016,76490,Diesel,Pune,https://storage.cloud.google.com/car_image12/car%20images/car%20images/mahindra%20XUV500.jpg
+2,4,Honda,Amaze 1.2 VX i-VTEC,500000.0,2016,18920,petrol,Mumbai,https://storage.cloud.google.com/car_image12/car%20images/car%20images/honda%20amaze.jpg
+3,6,Honda, City V,613000.0,2015,34279,petrol,Mumbai,https://storage.cloud.google.com/car_image12/car%20images/car%20images/honda%20city%20V.jpg
+4,9,Ford,  EcoSport Titanium + 1.5L Ti-VCT AT,834000.0,2018,60729,petrol,Mumbai,https://storage.cloud.google.com/car_image12/car%20images/car%20images/ford.jpg
+5,12,Maruti Suzuki,XL6 Alpha MT Petrol,1039000.0,2020,14586,petrol,Mumbai,https://storage.cloud.google.com/car_image12/car%20images/car%20images/maruti%20suzuki%20XL6%20alpha.jpg
+6,2,Hyundai,i10 Sportz,394000.0,2017,10970,petrol,Bangalore,https://storage.cloud.google.com/car_image12/car%20images/car%20images/hyundai%20i20.jpg
+7,1,Suzuki,alto 800 LXI,100000.0,2020,7000,petrol,Hyderabad,https://storage.cloud.google.com/car_image12/car%20images/car%20images/maruti%20suzuki%20alto.jpg
+8,3,Maruti Suzuki,Eeco 5,490000.0,2020,6479,petrol,Hyderabad,https://storage.cloud.google.com/car_image12/car%20images/car%20images/maruti%20suzuki%20eeco.jpg
+9,7,Maruti Suzuki,Ciaz Alpha Petrol,719000.0,2018,70282,petrol,Hyderabad,https://storage.cloud.google.com/car_image12/car%20images/car%20images/marui%20suzuki%20ciaz.jpg
+10,8,Hyundai ,i20 Active 1.2 S,795000.0,2018,64666,petrol,Hyderabad,https://storage.cloud.google.com/car_image12/car%20images/car%20images/hyundai%20i20%20asta.jpg
+11,11,Mahindra,XUV 300 W8 (O) Petrol,1097000.0,2020,19610,petrol,Hyderabad,https://storage.cloud.google.com/car_image12/car%20images/car%20images/hyundai%20i20.jpg
