@@ -1,0 +1,35 @@
+h1{
+    text-align: left;
+    color: #1d0452;
+    background-color: white;
+    font-size: 36px;
+    font-weight: bold;
+    display: inline;
+}
+.welcome{
+    color: #fc0377;
+    font-weight: 700;
+    font-size: 16px; 
+    font-style: italic;
+}
+.call{
+    color: #fc0377;
+    font-weight: 500;
+    font-size: 16px; 
+    font-style: italic;
+}
+a{
+    color: #1d0452 !important;
+    font-weight: bold;
+    font-size: 16px; 
+    font-style: italic; 
+}
+.small{
+    font-size: 8px;
+}
+.padding{
+padding-top: 10px;
+}
+.border{
+    border-left: 1px gray;
+}

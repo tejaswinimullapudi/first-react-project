@@ -1,0 +1,42 @@
+h2{
+    text-decoration:underline !important;
+    
+}
+h4{
+    color: white !important;
+}
+.spacer1
+{
+    font-size: 0; 
+    height: 1cm !important;
+    line-height: 0;
+}
+.background1 {
+    background-image: url("../resources/00-mercedes-benz-eq-concept-cars-2560x1440.jpg") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    
+  
+ }
+ input1{
+     width:6cm !important;
+ }
+ 
+.card1
+{   display: block;
+
+    align-items: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+   
+    padding: 0.5rem;
+    margin: 1rem ;
+    border-radius: 12px;
+    width:14cm !important;
+    height: 14cm !important;
+    
+    
+  
+    
+    
+}

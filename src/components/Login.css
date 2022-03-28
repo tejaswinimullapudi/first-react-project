@@ -1,0 +1,47 @@
+
+.card
+{   display: block;
+
+    align-items: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+   
+    padding: 0.5rem;
+    margin: 1rem 0;
+    border-radius: 12px;
+    width:12cm !important;
+    height: 14cm !important;
+    
+  
+    
+    
+}
+.name{
+    color: #1d0452 !important;
+    opacity: 1;
+}
+input{
+    width: 5cm !important;
+}
+body {
+    overflow: hidden !important; /* Hide scrollbars */
+  }
+.opac{
+    opacity: 0.3;
+}
+h2,h4{
+    color: #1d0452;
+    opacity: 1;
+}
+.spacer
+{
+    font-size: 0; 
+    height: 2cm !important;
+    line-height: 0;
+}
+.background {
+    background-image: url("../resources/best\ cars\ to\ buy\ for\ £50\,000-5.jpg") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+  
+ }
